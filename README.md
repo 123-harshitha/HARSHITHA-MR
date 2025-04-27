@@ -28,7 +28,7 @@
 
 ## 💡 About Me: Learning, Building, and Growing Every Day
 
-👋 Hey there! I'm Priyanka, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.
+👋 Hey there! I'm Harshitha, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.
 
 🚀 I actively participate in hackathons and was honored to secure 4th place at IIT Bombay KoiiHack. I also enjoy mentoring and conducting workshops, sharing knowledge, and helping others grow.
 👩‍💻 Currently, I’m Project Manager at Code_X, where I lead and collaborate on exciting tech projects. My goal is to explore AI, Blockchain, and Full Stack Development.
