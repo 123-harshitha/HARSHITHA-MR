@@ -1,11 +1,13 @@
 # 👋 Hello World! I'm Harshitha M R
 
+
 🎓 Third Year ISE Student | Tech Enthusiast | Full-Stack Developer | 
 🏆 Hackathon Enthusiast | 4th Place – IIT Bombay KoiiHack
 👩‍🏫 Mentor & Workshop Instructor | Project Manager at Code_X
 🌟 Passionate about continuous learning, building impactful solutions, and solving real-world problems!
 
 ---
+
 
 ## 🖥️ Tech Stack: What I Know & Love 💙
 
@@ -26,6 +28,8 @@
 
 ---
 
+
+
 ## 💡 About Me: Learning, Building, and Growing Every Day
 
 👋 Hey there! I'm Harshitha, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.
@@ -41,6 +45,7 @@
 
 ---
 
+
 ## 📊 My GitHub Activity & Contributions
 
 <div align="center">
@@ -50,13 +55,7 @@
 
 ---
 
-## 🐍 GitHub Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshitha-mr/harshitha-mr/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## ✨ Quote of the Day
 
