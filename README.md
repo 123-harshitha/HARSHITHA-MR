@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Harshitha M R
 
 
-🎓 Third Year ISE Student | Tech Enthusiast | Full-Stack Developer | 
+🎓 Third Year ISE Student | Tech Enthusiast | Full-Stack Developer
 🏆 Hackathon Enthusiast | 4th Place – IIT Bombay KoiiHack
 👩‍🏫 Mentor & Workshop Instructor | Project Manager at Code_X
 🌟 Passionate about continuous learning, building impactful solutions, and solving real-world problems!
